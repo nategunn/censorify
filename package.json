@@ -1,6 +1,6 @@
 {
 	"author": "Nate Gunn",
-	"name": "censorify",
+	"name": "ngcensorify",
 	"version": "0.1.1",
 	"description": "censor words out of text",
 	"main": "censortext",
